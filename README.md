@@ -1,3 +1,5 @@
+A python Mini Project for the Introduction to Programming module (ICE4101) for my masters degree. 
+
 This project is based on all types of search algorithms:
  - BFS (Breadth First Search)
  - DFS (Depth First Search)
